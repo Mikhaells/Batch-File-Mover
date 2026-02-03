@@ -1,6 +1,6 @@
 # Batch File Mover
 
-Utility Python yang memproses dan memindahkan file dari folder sumber ke struktur folder tujuan yang terorganisir berdasarkan kode di nama file. Dirancang khusus untuk TVRI KEPRI (Stasiun Televisi Republik Indonesia - Kepulauan Riau).
+Utility Python yang memproses dan memindahkan file dari folder sumber ke struktur folder tujuan yang terorganisir berdasarkan kode di nama file.
 
 ## 📋 Deskripsi Proyek
 
